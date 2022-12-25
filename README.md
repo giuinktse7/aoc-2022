@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-## Failed
+## Days I was unable to complete without hints/solutions
 
 ### Day 11 Part 2
 
